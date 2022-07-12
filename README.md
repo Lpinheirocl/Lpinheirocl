@@ -9,4 +9,4 @@ Lpinheirocl/Lpinheirocl is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-![video (1)](https://user-images.githubusercontent.com/44389292/178386580-1db5a2d1-8155-4870-9c87-c9a27eb8717a.gif)
+
